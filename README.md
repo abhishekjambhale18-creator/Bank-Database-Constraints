@@ -59,6 +59,5 @@ It focuses on applying important **SQL constraints** to ensure data accuracy, un
 MySQL
 
 ---
-
 **Series Navigation**  
-← [Lab 1 – Bank Database Setup](https://github.com/abhishekjambhale18-creator/Bank-Database-SQL) | Next Lab Coming Soon →
+← [Lab 1 – Bank Database Setup](https://github.com/abhishekjambhale18-creator/Bank-Database-SQL) | [Lab 3 – Bank Database Relationships](https://github.com/abhishekjambhale18-creator/Bank-Database-Relationships) →
